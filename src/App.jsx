@@ -1,7 +1,13 @@
+import { Outlet } from "react-router-dom";
+
 const App = () => {
   return (
     <>
-      <h1>Digital Store</h1>
+    {/* <Header/> */}
+      <main>
+        <Outlet /> {/* Renderiza os componentes filhos */}
+      </main>
+    {/* <Footer/> */}
     </>
   );
 }
