@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import arrowLeft from '../assets/arrow-left.svg';
-import arrowRight from '../assets/arrow-right.svg';
+import arrowLeft from '../../assets/arrow-left.svg';
+import arrowRight from '../../assets/arrow-right.svg';
 
 const Gallery = ({ images, width = '100%', height = 'auto', radius = 'xl', showThumbs }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
