@@ -19,6 +19,16 @@ Aplicação de catálogo de produtos com React + Vite, utilizando componentes mo
 
 ---
 
+## ▶️ Instalação e Execução
+
+```bash
+git clone https://github.com/Amanda-psz/digital_store.git
+cd digital_store
+npm install # ou yarn install
+npm run dev # ou yarn dev
+```
+---
+
 ## 🚧 Estrutura do Projeto
 
 ```bash
@@ -71,11 +81,4 @@ Aplicação de catálogo de produtos com React + Vite, utilizando componentes mo
 │
 ├── package.json                   # Dependências e scripts
 └── README.md                      # Documentação do projeto
-
----
-
-## ▶️ Instalação e Execução
-
-```bash
-git clone https://github.com/Amanda-psz/digital_store.git
-
+```
