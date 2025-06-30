@@ -1,13 +1,5 @@
 # 🛍️ Catálogo de Produtos - React + Vite + Tailwind
 
-## 📚 Sumário
-- [Visão Geral](#visão-geral)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-
----
-
 ## 🧭 Visão Geral
 Aplicação de catálogo de produtos com React + Vite, utilizando componentes modulares, Context API (carrinho) e styled com Tailwind CSS.
 
@@ -79,4 +71,11 @@ Aplicação de catálogo de produtos com React + Vite, utilizando componentes mo
 │
 ├── package.json                   # Dependências e scripts
 └── README.md                      # Documentação do projeto
+
+---
+
+## ▶️ Instalação e Execução
+
+```bash
+git clone https://github.com/Amanda-psz/digital_store.git
 
