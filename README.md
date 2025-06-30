@@ -1,7 +1,12 @@
 # 🛍️ Projeto de Front-end - React + Vite + Tailwind
 
 ## 🧭 Visão Geral
-Aplicação de catálogo de produtos com React + Vite, utilizando componentes modulares, Context API (carrinho) e styled com Tailwind CSS.
+
+Este projeto foi desenvolvido como parte da formação **Geração Tech 2.0**, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso. A proposta é construir uma aplicação web moderna utilizando **React** e outras tecnologias atuais do ecossistema JavaScript.
+
+A aplicação simula uma loja virtual (catálogo de produtos), permitindo ao usuário visualizar, buscar e navegar por produtos de forma responsiva e intuitiva. Todo o desenvolvimento foi baseado em boas práticas de componentização, reutilização de código e organização de pastas.
+
+O projeto foi guiado pela [documentação oficial do projeto Digital Store](https://github.com/digitalcollegebr/projeto-digital-store), mantida pela Digital College, e teve como base visual o [design no Figma](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30), que definiu a identidade visual, a estrutura de telas e o comportamento esperado da aplicação.
 
 ---
 
