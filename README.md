@@ -1,4 +1,4 @@
-# 🛍️ Catálogo de Produtos - React + Vite + Tailwind
+# 🛍️ Projeto de Front-end - React + Vite + Tailwind
 
 ## 🧭 Visão Geral
 Aplicação de catálogo de produtos com React + Vite, utilizando componentes modulares, Context API (carrinho) e styled com Tailwind CSS.
