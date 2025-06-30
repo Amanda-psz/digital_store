@@ -4,7 +4,6 @@
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
-- [Instalação e Execução](#instalação-e-execução)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 
 ---
@@ -25,16 +24,6 @@ Aplicação de catálogo de produtos com React + Vite, utilizando componentes mo
 ## 🛠️ Tecnologias
 - React, Vite  
 - Tailwind CSS
-
----
-
-## ▶️ Instalação e Execução
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
-npm install # ou yarn install
-npm run dev # ou yarn dev
 
 ---
 
