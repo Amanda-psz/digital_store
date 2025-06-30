@@ -2,7 +2,7 @@
 
 ## 🧭 Visão Geral
 
-Este projeto foi desenvolvido como parte da formação **Geração Tech 2.0**, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso. A proposta é construir uma aplicação web moderna utilizando **React** e outras tecnologias atuais do ecossistema JavaScript.
+Este projeto foi desenvolvido como parte da formação **Geração Tech 2.0**, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso. A proposta foi construir uma aplicação web moderna utilizando **React** e outras tecnologias atuais do ecossistema JavaScript.
 
 A aplicação simula uma loja virtual (catálogo de produtos), permitindo ao usuário visualizar, buscar e navegar por produtos de forma responsiva e intuitiva. Todo o desenvolvimento foi baseado em boas práticas de componentização, reutilização de código e organização de pastas.
 
